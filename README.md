@@ -1,3 +1,3 @@
 # My-Files
-Python learning
+Python learning.
 This contains python code for machine learning.
