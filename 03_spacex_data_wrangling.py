@@ -11,7 +11,7 @@ import numpy as np
 ##Data Analysis¶
 ##Load Space X dataset, from last section.
 
-df=pd.read_csv("C:/Users/Louiso/Documents/03 C Programing/Data Science for python/Coursera/Capstone project/dataset_part_1.csv")
+df=pd.read_csv("path/dataset_part_1.csv")
 df.head(10)
 
 ##Identify and calculate the percentage of the missing values in each attribute
